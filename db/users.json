@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Varshith",
+      "email": "Varshith@gmail.com",
+      "phone": "963258478"
+    },
+    {
+      "id": "2",
+      "name": "Aditi",
+      "email": "Aditi@gmail.com",
+      "phone": "7418529639"
+    },
+    {
+      "id": "4",
+      "name": "Manish",
+      "email": "Manish@gmail.com",
+      "phone": "8521479639"
+    },
+    {
+      "name": "Subham Patnaik",
+      "email": "2211cs010546@mallareddyuniversity.ac.in",
+      "phone": "908907545",
+      "id": "9734"
+    }
+  ]
+}
